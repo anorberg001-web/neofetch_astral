@@ -1,4 +1,8 @@
 [metadata]
+name = "neofetch"
 title = "neofetch"
-version = "1.0.0"
-description = "rust neofetch for astral."
+version = "0.2.0"
+author = "ahaoboy"
+description = "A fast, cross-platform Rust system information tool packaged for Astral."
+binary = "neofetch"
+build = "cargo build --release"
